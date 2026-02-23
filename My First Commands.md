@@ -5,3 +5,4 @@
 <br> ls - to list all the files
 <br> ls -force - to list all the files including hidden files
 <br> clear - clears the terminal
+<br>rmdir - deletes folder
